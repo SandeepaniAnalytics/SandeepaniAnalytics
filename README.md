@@ -1,3 +1,9 @@
+# Hi, I'm Sandeepani Rathnayake 👋
+
+🎓 Final-year Statistics & Operations Research Undergraduate
+📊 Passionate about Data Analytics & Power BI
+🐍 Learning Python and building data-driven projects
+✨ Interested in turning data into meaningful insights
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandeepani Rathnayake) 
