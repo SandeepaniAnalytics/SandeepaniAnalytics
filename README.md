@@ -26,6 +26,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SandeepaniAnalytics&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SandeepaniAnalytics&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-brightgreen?style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
